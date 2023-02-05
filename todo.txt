@@ -1,0 +1,10 @@
+[+] Register a user
+[+] Login a user
+[+] who am i
+[+] Refresh the token
+[+] Logout the user 
+[+] Add new product 3.57.26
+[+] Update a product
+[+] Get All products
+[+] Get Single product
+[+] Delete a product 
